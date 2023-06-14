@@ -1,6 +1,6 @@
 <h1 align="center"> Yet Another Habit Tracker </h1>
 <p align="center">
-        <img alt="yaht" title="yaht" src="https://github.com/isaac-maya/yaht/blob/main/mainScreen.jpeg" width="500">
+        <img alt="yaht" title="yaht" src="https://github.com/isaac-maya/yaht/blob/main/mainScreen.jpg" width="500">
   </a>
 </p>
 <h2 align="center"> yaht | Python & PyQT based habit tracker for Linux </h2> 
