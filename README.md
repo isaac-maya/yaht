@@ -12,6 +12,7 @@
 
 - [Why?](#why?)
 - [Features](#features)
+- [Upcoming Features](#upcomingfeatures)
 - [Dependencies](#dependencies)
 - [Acknowledgments](#acknowledgments)
 
@@ -37,7 +38,12 @@ Yet, it's not only about honing my skills. As an avid user of habit trackers mys
 
 *	**Simple and Clean UI:** The user interface of the application is straightforward and distraction-free, focusing on functionality over aesthetics.
 
-  
+## Upcoming Features
+
+* **Save week habit tracking to json**
+
+* **Enable json backup to Cloud Services** 
+
 ## Dependencies
 
 **PyQT**
